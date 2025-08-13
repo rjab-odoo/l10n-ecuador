@@ -1,9 +1,9 @@
 
-[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-ecuador&target_branch=16.0)
-[![Pre-commit Status](https://github.com/OCA/l10n-ecuador/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/l10n-ecuador/actions/workflows/pre-commit.yml?query=branch%3A16.0)
-[![Build Status](https://github.com/OCA/l10n-ecuador/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/l10n-ecuador/actions/workflows/test.yml?query=branch%3A16.0)
-[![codecov](https://codecov.io/gh/OCA/l10n-ecuador/branch/16.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-ecuador)
-[![Translation Status](https://translation.odoo-community.org/widgets/l10n-ecuador-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-ecuador-16-0/?utm_source=widget)
+[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-ecuador&target_branch=15.0)
+[![Pre-commit Status](https://github.com/OCA/l10n-ecuador/actions/workflows/pre-commit.yml/badge.svg?branch=15.0)](https://github.com/OCA/l10n-ecuador/actions/workflows/pre-commit.yml?query=branch%3A15.0)
+[![Build Status](https://github.com/OCA/l10n-ecuador/actions/workflows/test.yml/badge.svg?branch=15.0)](https://github.com/OCA/l10n-ecuador/actions/workflows/test.yml?query=branch%3A15.0)
+[![codecov](https://codecov.io/gh/OCA/l10n-ecuador/branch/15.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-ecuador)
+[![Translation Status](https://translation.odoo-community.org/widgets/l10n-ecuador-15-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-ecuador-15-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
@@ -17,7 +17,14 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ec_account_edi](l10n_ec_account_edi/) | 15.0.1.2.4 |  | Electronic data interchange adapted Ecuadorian localization
+[l10n_ec_base](l10n_ec_base/) | 15.0.1.0.0 |  | Ecuadorian Localization
+[l10n_ec_delivery_note](l10n_ec_delivery_note/) | 15.0.1.0.1 |  | Delivery Notes
+[l10n_ec_ote](l10n_ec_ote/) | 15.0.1.0.0 |  | OTE for Ecuador
 
 [//]: # (end addons)
 
